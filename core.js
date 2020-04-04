@@ -36,4 +36,4 @@ client.on("guildMemberRemove",(member)=>{
     boasVindasChannel.send(`${member.user} saiu do server :( awwww 😔`);
 });
 
-client.login(config.token);
+client.login("NDE5ODcwNzgzNDczNDUxMDE5.XofS5w.S2zYRO5cwMQ4btInI0dEBxQhdaQ");
